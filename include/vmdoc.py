@@ -13,7 +13,7 @@ sys.path.append(str(Path(__file__).resolve().parents[3]))
 sys.path.append(str(Path(__file__).resolve().parents[4]))
 sys.path.append(str(Path(__file__).resolve().parents[5]))
 
-from vicmil_pip.packages.pyUtil import *
+from vizpip_env.lib.pyUtil import *
 import hashlib
 from typing import List, Optional, Tuple
 
